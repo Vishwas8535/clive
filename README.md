@@ -1,9 +1,9 @@
 Welcome to the AWS CodeStar sample web service
 ==============================================
-Arithmetic
+Arithmetic logical issues of codes
 This sample code helps get you started with a simple Python web service using
 AWS Lambda and Amazon API Gateway.
-
+parabolic mirror
 What's Here
 -----------
 
